@@ -1,3 +1,7 @@
+.jumbotron{
+    background: url(assets/h_img.jpg);
+    color:white;
+}
 body{
 	margin: 0;
 	padding: 0;
@@ -32,7 +36,7 @@ body{
     height: 300px;
 }
 .second-text{
-    color: black;
+    color: white;
     text-align: center;
     background: transparent;
     font-size-adjust: auto;  
@@ -49,10 +53,20 @@ body{
 }
 .fourth-text{
     text-align: center;
-    color: white;
+    color: black;
     font-weight: 200;
 }
 .section4{
     background: whitesmoke;
     height:auto;
+}
+.card-title h1,p{
+    color:white;
+}
+.fourth-text h1,p{
+    color:black;
+    font-style: italic;
+}
+.run p{
+    color:white;
 }
