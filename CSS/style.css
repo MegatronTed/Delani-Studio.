@@ -6,7 +6,7 @@ body{
 	margin: 0;
 	padding: 0;
 	height: auto;
-    background: black;
+    background: white;
 }
 .container{
 	margin: inherit;
@@ -53,7 +53,7 @@ body{
 }
 .fourth-text{
     text-align: center;
-    color: black;
+    color: white;
     font-weight: 200;
 }
 .section4{
@@ -61,12 +61,12 @@ body{
     height:auto;
 }
 .card-title h1,p{
-    color:white;
+    color:black;
 }
 .fourth-text h1,p{
     color:black;
     font-style: italic;
 }
 .run p{
-    color:white;
+    color:black;
 }
