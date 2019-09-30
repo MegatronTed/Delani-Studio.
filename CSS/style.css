@@ -1,14 +1,26 @@
-.jumbotron{
-    background: url(assets/h_img.jpg);
-    color:white;
+.img{
+    background-image: url(./images/h_img.jpg);
+    background:
+	/* margin: 0; */
+	/* padding: 0;// */
+	/* height: auto; */
+    /* background: white; */
 }
-body{
-	margin: 0;
-	padding: 0;
-	height: auto;
-    background: white;
+.row{
+    margin-top:20px;
 }
-.container{
+.dun{
+    background-image: url(./images/c_img.jpg);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+/* .container{
 	margin: inherit;
     width: inherit;
 }
@@ -69,4 +81,4 @@ body{
 }
 .run p{
     color:black;
-}
+} */
