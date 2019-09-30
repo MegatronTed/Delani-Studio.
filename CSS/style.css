@@ -1,30 +1,32 @@
-.img{
-    background-image: url(./images/h_img.jpg);
-    background:
-	/* margin: 0; */
-	/* padding: 0;// */
-	/* height: auto; */
-    /* background: white; */
+/* .imgrow{
+    background-image: url(./images/h_img.jpg); 
+	 margin: 0; 
+     padding: 0;
+     height: 100vh; 
+    background: white;
+} */
+/* .img1{
+    background-image:url("./images/h_img.jpg")
 }
 .row{
     margin-top:20px;
 }
 .dun{
-    background-image: url(./images/c_img.jpg);
+    background-image: url(/images/h_img.jpg); 
     background-repeat: no-repeat;
 }
-
-
-
-
-
-
-
-/* .container{
+.container{
 	margin: inherit;
     width: inherit;
+} */
+.home{
+    background-image: url("../images/h_img.jpg");
+    height: 70vh;
+    color:white;
+    text-transform: uppercase;
+    margin-top: 20px;
 }
-.first-text{
+ .first-text{
 	background: transparent;
 	font-weight: bold;
     text-align: center;
@@ -32,23 +34,22 @@
     font-size: 60px;
     color: white;
     text-emphasis:bold;
+    background-image: url(/images/h_img.jpg);
 }
-.section1{
-    background: url(assets/h_img.jpg) no-repeat;
-    
-}
+
 .logo{
+
     margin-left: auto;
     margin-right: auto;
     float: none;
     margin-top: 100px;
 }
 .section2{
-    background: whitesmoke;
+    background: black;
     height: 300px;
 }
 .second-text{
-    color: white;
+    color:black;
     text-align: center;
     background: transparent;
     font-size-adjust: auto;  
@@ -56,20 +57,20 @@
 }
 .section3{
     height: 300px;
-    background: url(assets/s_image.jpg) no-repeat;
+    background: url(/images/s_image.jpg) no-repeat;
 }
 .third-text{
     text-align: center;
     background: transparent;
-    color: white;
+    color: black;
 }
 .fourth-text{
     text-align: center;
-    color: white;
+    color:black;
     font-weight: 200;
 }
 .section4{
-    background: whitesmoke;
+    background:;
     height:auto;
 }
 .card-title h1,p{
@@ -81,4 +82,20 @@
 }
 .run p{
     color:black;
-} */
+}
+h1,p{
+    text-align:center;
+}
+.container-fluid-dun{
+    height: 400px;
+    background: url(/images/c_image.jpg) no-repeat;
+    text-align: center;
+    margin: 24px;
+}
+.name{
+  color: transparent;
+  padding-right: 20px;  
+}
+.email{
+    color: transparent;
+}
